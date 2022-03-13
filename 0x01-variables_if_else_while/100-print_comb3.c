@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - main block
  * Description: Print all possible combinations of two digits.
@@ -29,12 +28,13 @@ int main(void)
 			putchar(j + '0');
 
 			if (i < 89)
+
 			{
 				putchar(44);
 				putchar(32);
 			}
-		} 
-		
+		}
+
 		i++;
 	}
 	putchar('\n');
