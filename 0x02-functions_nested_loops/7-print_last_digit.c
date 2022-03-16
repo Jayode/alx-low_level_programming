@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_last_digit - Check Holberton
  * @r: An integer input
