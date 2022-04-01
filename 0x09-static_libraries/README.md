@@ -1,1 +1,1 @@
-static
+# Introduction to StaticLibraries in C
